@@ -1028,7 +1028,7 @@ header .badges .badge {
   right: -100px;
 }
 .awards .swiper-button-prev:hover,
-.promotion .swiper-button-next:hover {
+.awards .swiper-button-next:hover {
   background-color: #fff;
   color: #333;
 }
