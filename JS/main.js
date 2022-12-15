@@ -190,6 +190,9 @@ new Swiper('.awards .swiper', {
   // Optional parameters
   direction: 'horizontal', // 수평 슬라이드
   loop: true, // 반복 재생 여부
+  autoplay: {
+    delay: 1000
+  }, 
   slidesPerView: 5,     // 한 번에 보여줄 슬라이드 개 수   
   spaceBetween: 30,     // 슬라이드 사이 여백(간격) 10px
 
